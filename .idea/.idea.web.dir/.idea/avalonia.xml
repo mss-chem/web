@@ -3,6 +3,7 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="App.axaml" value="mss-chem.csproj" />
         <entry key="MainWindow.axaml" value="mss-chem.csproj" />
       </map>
     </option>
